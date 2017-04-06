@@ -1,4 +1,4 @@
-TP#0 - Sagardia, Cesar Matias - K2051
+//TP#0 - Sagardia, Cesar Matias - K2051
 
 #include <stdio.h>
 
